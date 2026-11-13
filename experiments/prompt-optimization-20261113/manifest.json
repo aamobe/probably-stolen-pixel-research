@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-13",
+  "tool": "image_gen.imagegen",
+  "model": "not exposed",
+  "seed": "not exposed",
+  "size_control": "not exposed",
+  "status": "experimental; no visual approval; no game integration",
+  "source_commit": "ef376e57e1c272633ca2dbf5f29ec3fcf6596465",
+  "references": [
+    {
+      "file": "furnace.png",
+      "sha256": "6bc3b29aa491dbddf760324bd2fb828868b7c92d07d8087f8d9f611e6120055b",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "file": "furnace_on.png",
+      "sha256": "1d6c46f45c9483994090ce6b5a4bcc5071a602f7c8b76eed8147119b3cbd81c5",
+      "size": [
+        48,
+        48
+      ]
+    },
+    {
+      "file": "med_bottle_blue.png",
+      "sha256": "8d1c6153f9aec2251fbc1a04b38d77b45038d4de09f55f710c8ba07f14bac938",
+      "size": [
+        16,
+        32
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "name": "bottle",
+      "file": "bottle-generated.png",
+      "sha256": "311f7df30835c1709327eb884ec0930a82f938779749fe7f42481465a994523f",
+      "actual_size": [
+        887,
+        1774
+      ],
+      "raw_alpha": [
+        255
+      ],
+      "prompt_file": "bottle-prompt.txt",
+      "prompt": "Redraw the single medicine bottle in the attached original game sprite. Use the reference as the exact design and pixel-art style guide: same narrow bottle silhouette, cap, shoulder, pale gray-green body, small blue label, dark purple outline and original framing. This is a tiny 16 by 32 inventory item, so keep the chunky, sparse pixel shapes of the reference. Flat connected color clusters, crisp stair-step contours, discrete shading and only the few highlights already present. No extra grooves, reflections, writing, fine texture, gradients or antialiasing. Keep the bottle centered and complete with the same relative empty margins. The exterior background is a solid bright green chroma key. One bottle only, no floor or cast shadow.",
+      "reference": "med_bottle_blue.png",
+      "reference_scale": 1,
+      "transparent_background": false
+    },
+    {
+      "name": "furnace-c",
+      "file": "furnace-c-generated.png",
+      "sha256": "d229847bcc224737da094c1838416a27a5fa224e5f690b8b112467f18ac0e4bf",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "raw_alpha": [
+        255
+      ],
+      "prompt_file": "furnace-c-prompt.txt",
+      "prompt": "Redraw the object from the reference image as true pixel art with a strict pixel period.\n\nSubject: only the industrial furnace in the attached reference.\n\nLogical resolution: exactly 48×48 pixels. Every logical pixel is one exact square block filled uniformly with a single RGB color. Different blocks may use different colors. All blocks are the same size everywhere and sit on one lattice that starts at the top-left corner of the canvas: no half blocks, no smaller blocks for fine detail, no drifting, stretched or rotated grid. Do not add detail finer than one block.\n\nKeep the design of the reference: preserve the silhouette, proportions, pose, colors, major components, and their relative positions. Do not enlarge, move or restyle individual elements. Simplify details that cannot fit within the logical resolution into clear whole-pixel shapes instead of introducing smaller pixels. Render any tiny lettering or symbols as simple blocky marks one block wide; they do not need to be readable.\n\nFlat color fills only. No gradients, no dithering, no noise, no texture.\n\nBackground: pure flat #00FF00 everywhere outside the object, including all internal gaps and spaces between separate parts. Every edge is a hard stair-step of whole blocks. No anti-aliasing, no semi-transparent pixels, no glow, no drop shadow, no halo, no white fringe.\n\nMatch the viewing angle and orientation of the reference. Keep the complete object within the canvas. Use the specified native bounding box, anchor and margins: retain the reference framing, nearly full width and height with its narrow outer margin, centered on the 48×48 canvas. Do not shrink the object to impose a universal margin.\n\nOne object only. No additional objects, scenery, captions, borders, or visible grid lines.",
+      "reference": "furnace.png",
+      "reference_scale": 16,
+      "transparent_background": false
+    },
+    {
+      "name": "bottle-c",
+      "file": "bottle-c-generated.png",
+      "sha256": "5b0a126a91e575a0a6d9825944cdcf680934a7576f7dc0740e5fa172337a43a2",
+      "actual_size": [
+        887,
+        1774
+      ],
+      "raw_alpha": [
+        255
+      ],
+      "prompt_file": "bottle-prompt.txt",
+      "prompt": "Redraw the single medicine bottle in the attached original game sprite. Use the reference as the exact design and pixel-art style guide: same narrow bottle silhouette, cap, shoulder, pale gray-green body, small blue label, dark purple outline and original framing. This is a tiny 16 by 32 inventory item, so keep the chunky, sparse pixel shapes of the reference. Flat connected color clusters, crisp stair-step contours, discrete shading and only the few highlights already present. No extra grooves, reflections, writing, fine texture, gradients or antialiasing. Keep the bottle centered and complete with the same relative empty margins. The exterior background is a solid bright green chroma key. One bottle only, no floor or cast shadow.",
+      "reference": "med_bottle_blue.png",
+      "reference_scale": 32,
+      "transparent_background": false
+    },
+    {
+      "name": "pellet-press",
+      "file": "pellet-press-generated.png",
+      "sha256": "dca6fef2d3a07d30039a413ed47b3385dbae0525123cb417a7a460eba7e4de81",
+      "actual_size": [
+        1254,
+        1254
+      ],
+      "raw_alpha": [
+        255
+      ],
+      "prompt_file": "pellet-press-prompt.txt",
+      "prompt": "Create one new standalone pixel-art inventory machine for Probably Stolen: a compact mineral-powder pellet press, designed to read at 48 by 48 native pixels.\n\nThe attached image is an enlarged original game sprite. Use it ONLY for pixel-art rendering, outline weight, muted material palette, shallow front-above viewpoint, and sparse detail density. Create a DIFFERENT silhouette and component arrangement; do not copy its furnace door or ventilation grille.\n\nDesign: a small funnel at the upper left feeds a broad enclosed pressing chamber in the center. A short rectangular output tray sits below the chamber. One small control toggle is on the right side. These parts form one compact supported machine on a low base. Keep the input, working chamber and output visually distinct. Horizontal front edges, visible shallow top faces, narrow side faces.\n\nUse warm pale casing panels, blue-gray metal, purple-dark cavities and one restrained teal indicator, as in the reference. Keep housing planes broad and uninterrupted. Model the form with connected flat color clusters and a few selective edge highlights. Coherent square pixel scale, crisp stepped outlines, no smooth gradients, noise, microtexture or extra decorative bolts.\n\nSquare canvas, complete object nearly filling it with narrow margins comparable to the reference. Solid bright green exterior and gaps. One machine only, no floor, shadow, text, grid or extra objects.",
+      "reference": "furnace.png",
+      "reference_scale": 16,
+      "transparent_background": false
+    }
+  ]
+}

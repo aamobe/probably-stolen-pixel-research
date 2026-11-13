@@ -1,0 +1,89 @@
+[
+  {
+    "name": "furnace-a",
+    "sourceBounds": [
+      22,
+      17,
+      1232,
+      1238
+    ],
+    "referenceBounds": [
+      1,
+      2,
+      47,
+      47
+    ],
+    "placement": [
+      2,
+      2,
+      45,
+      45
+    ],
+    "target": [
+      48,
+      48
+    ],
+    "alpha_iou": 0.9640216855593888,
+    "foreground": 1961,
+    "rgb": 9,
+    "exactRGBAfraction": 0.4348958333333333
+  },
+  {
+    "name": "furnace-b",
+    "sourceBounds": [
+      82,
+      70,
+      1173,
+      1184
+    ],
+    "referenceBounds": [
+      1,
+      2,
+      47,
+      47
+    ],
+    "placement": [
+      2,
+      2,
+      44,
+      45
+    ],
+    "target": [
+      48,
+      48
+    ],
+    "alpha_iou": 0.9551724137931035,
+    "foreground": 1945,
+    "rgb": 9,
+    "exactRGBAfraction": 0.4869791666666667
+  },
+  {
+    "name": "bottle",
+    "sourceBounds": [
+      200,
+      339,
+      687,
+      1434
+    ],
+    "referenceBounds": [
+      2,
+      4,
+      14,
+      29
+    ],
+    "placement": [
+      2,
+      4,
+      11,
+      25
+    ],
+    "target": [
+      16,
+      32
+    ],
+    "alpha_iou": 0.8816793893129771,
+    "foreground": 237,
+    "rgb": 5,
+    "exactRGBAfraction": 0.71875
+  }
+]

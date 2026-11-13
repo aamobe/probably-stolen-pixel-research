@@ -1,0 +1,277 @@
+{
+  "method": "RGB statistics exclude green key; original palette snapped in Oklab; no manual redrawing",
+  "source_commit": "ef376e57e1c272633ca2dbf5f29ec3fcf6596465",
+  "cases": [
+    {
+      "name": "furnace-a",
+      "input_sha256": "1b197ed18b3f256d51636a0a5ae21602d0b32e92c01c50c960424654b4e64904",
+      "reference_sha256": "6bc3b29aa491dbddf760324bd2fb828868b7c92d07d8087f8d9f611e6120055b",
+      "raw": {
+        "width": 1254,
+        "height": 1254,
+        "rgb": 23633,
+        "alpha": [
+          0,
+          255
+        ],
+        "foreground": 1432770
+      },
+      "target": [
+        48,
+        48
+      ],
+      "methods": {
+        "auto_raw": {
+          "width": 96,
+          "height": 96,
+          "rgb": 646,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 8382
+        },
+        "auto_palette": {
+          "width": 96,
+          "height": 96,
+          "rgb": 9,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 8382
+        },
+        "nearest": {
+          "width": 48,
+          "height": 48,
+          "rgb": 9,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2054,
+          "alpha_iou": 0.9739,
+          "exact_rgba_fraction": 0.4948,
+          "rgb_agreement_on_overlap": 0.4483
+        },
+        "target-pack": {
+          "width": 48,
+          "height": 48,
+          "rgb": 9,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2054,
+          "alpha_iou": 0.9739,
+          "exact_rgba_fraction": 0.4991,
+          "rgb_agreement_on_overlap": 0.4533
+        },
+        "phase-snap": {
+          "width": 48,
+          "height": 48,
+          "rgb": 9,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2098,
+          "alpha_iou": 0.9536,
+          "exact_rgba_fraction": 0.4214,
+          "rgb_agreement_on_overlap": 0.3862
+        }
+      },
+      "detection": {
+        "step_x": 13.070832146301981,
+        "step_y": 13.12883418374106,
+        "cols": 96,
+        "rows": 96,
+        "phase_x": 0.0,
+        "phase_y": 0.0,
+        "consensus": "arbitrated"
+      },
+      "detect_seconds": 9.17
+    },
+    {
+      "name": "furnace-b",
+      "input_sha256": "18229bf3b7ee6a04f1c30c68a60805c8a0692644b4ce1a5661fabac4199a5565",
+      "reference_sha256": "6bc3b29aa491dbddf760324bd2fb828868b7c92d07d8087f8d9f611e6120055b",
+      "raw": {
+        "width": 1254,
+        "height": 1254,
+        "rgb": 22691,
+        "alpha": [
+          0,
+          255
+        ],
+        "foreground": 1193283
+      },
+      "target": [
+        48,
+        48
+      ],
+      "methods": {
+        "auto_raw": {
+          "width": 86,
+          "height": 85,
+          "rgb": 599,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 5462
+        },
+        "auto_palette": {
+          "width": 86,
+          "height": 85,
+          "rgb": 9,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 5462
+        },
+        "nearest": {
+          "width": 48,
+          "height": 48,
+          "rgb": 9,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 1732,
+          "alpha_iou": 0.8557,
+          "exact_rgba_fraction": 0.4779,
+          "rgb_agreement_on_overlap": 0.474
+        },
+        "target-pack": {
+          "width": 48,
+          "height": 48,
+          "rgb": 9,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 1732,
+          "alpha_iou": 0.8557,
+          "exact_rgba_fraction": 0.4701,
+          "rgb_agreement_on_overlap": 0.4636
+        },
+        "phase-snap": {
+          "width": 48,
+          "height": 48,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 1765,
+          "alpha_iou": 0.872,
+          "exact_rgba_fraction": 0.4779,
+          "rgb_agreement_on_overlap": 0.4652
+        }
+      },
+      "detection": {
+        "step_x": 14.612112023940623,
+        "step_y": 14.687677844137081,
+        "cols": 86,
+        "rows": 85,
+        "phase_x": 0.0,
+        "phase_y": 0.0,
+        "consensus": "arbitrated"
+      },
+      "detect_seconds": 6.97
+    },
+    {
+      "name": "bottle",
+      "input_sha256": "311f7df30835c1709327eb884ec0930a82f938779749fe7f42481465a994523f",
+      "reference_sha256": "8d1c6153f9aec2251fbc1a04b38d77b45038d4de09f55f710c8ba07f14bac938",
+      "raw": {
+        "width": 887,
+        "height": 1774,
+        "rgb": 16130,
+        "alpha": [
+          0,
+          255
+        ],
+        "foreground": 461479
+      },
+      "target": [
+        16,
+        32
+      ],
+      "methods": {
+        "auto_raw": {
+          "width": 50,
+          "height": 100,
+          "rgb": 295,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 1496
+        },
+        "auto_palette": {
+          "width": 50,
+          "height": 100,
+          "rgb": 5,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 1496
+        },
+        "nearest": {
+          "width": 16,
+          "height": 32,
+          "rgb": 6,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 142,
+          "alpha_iou": 0.5547,
+          "exact_rgba_fraction": 0.5859,
+          "rgb_agreement_on_overlap": 0.3099
+        },
+        "target-pack": {
+          "width": 16,
+          "height": 32,
+          "rgb": 5,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 142,
+          "alpha_iou": 0.5547,
+          "exact_rgba_fraction": 0.5938,
+          "rgb_agreement_on_overlap": 0.338
+        },
+        "phase-snap": {
+          "width": 16,
+          "height": 32,
+          "rgb": 7,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 160,
+          "alpha_iou": 0.6187,
+          "exact_rgba_fraction": 0.5918,
+          "rgb_agreement_on_overlap": 0.3019
+        }
+      },
+      "detection": {
+        "step_x": 17.74,
+        "step_y": 17.74,
+        "cols": 50,
+        "rows": 100,
+        "phase_x": 0.0,
+        "phase_y": 0.0,
+        "consensus": "fast:ac+rl(S)"
+      },
+      "detect_seconds": 0.16
+    }
+  ],
+  "roundtrip_control_changed_pixels": 0
+}

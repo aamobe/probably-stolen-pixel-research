@@ -1,0 +1,187 @@
+{
+  "method": "RGB statistics exclude green key; original palette snapped in Oklab; no manual redrawing",
+  "source_commit": "ef376e57e1c272633ca2dbf5f29ec3fcf6596465",
+  "cases": [
+    {
+      "name": "furnace-c",
+      "input_sha256": "d229847bcc224737da094c1838416a27a5fa224e5f690b8b112467f18ac0e4bf",
+      "reference_sha256": "6bc3b29aa491dbddf760324bd2fb828868b7c92d07d8087f8d9f611e6120055b",
+      "raw": {
+        "width": 1254,
+        "height": 1254,
+        "rgb": 21639,
+        "alpha": [
+          0,
+          255
+        ],
+        "foreground": 1382323
+      },
+      "target": [
+        48,
+        48
+      ],
+      "methods": {
+        "auto_raw": {
+          "width": 96,
+          "height": 96,
+          "rgb": 355,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 8096
+        },
+        "auto_palette": {
+          "width": 96,
+          "height": 96,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 8096
+        },
+        "nearest": {
+          "width": 48,
+          "height": 48,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2024,
+          "alpha_iou": 1.0,
+          "exact_rgba_fraction": 0.8407,
+          "rgb_agreement_on_overlap": 0.8187
+        },
+        "target-pack": {
+          "width": 48,
+          "height": 48,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2024,
+          "alpha_iou": 1.0,
+          "exact_rgba_fraction": 0.8407,
+          "rgb_agreement_on_overlap": 0.8187
+        },
+        "phase-snap": {
+          "width": 48,
+          "height": 48,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2024,
+          "alpha_iou": 1.0,
+          "exact_rgba_fraction": 0.8407,
+          "rgb_agreement_on_overlap": 0.8187
+        }
+      },
+      "detection": {
+        "step_x": 13.0625,
+        "step_y": 13.0625,
+        "cols": 96,
+        "rows": 96,
+        "phase_x": 0.0,
+        "phase_y": 0.0,
+        "consensus": "fast:ac+rl(S)"
+      },
+      "detect_seconds": 0.17
+    },
+    {
+      "name": "bottle-c",
+      "input_sha256": "5b0a126a91e575a0a6d9825944cdcf680934a7576f7dc0740e5fa172337a43a2",
+      "reference_sha256": "8d1c6153f9aec2251fbc1a04b38d77b45038d4de09f55f710c8ba07f14bac938",
+      "raw": {
+        "width": 887,
+        "height": 1774,
+        "rgb": 15542,
+        "alpha": [
+          0,
+          255
+        ],
+        "foreground": 785937
+      },
+      "target": [
+        16,
+        32
+      ],
+      "methods": {
+        "auto_raw": {
+          "width": 48,
+          "height": 96,
+          "rgb": 199,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2304
+        },
+        "auto_palette": {
+          "width": 48,
+          "height": 96,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 2304
+        },
+        "nearest": {
+          "width": 16,
+          "height": 32,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 256,
+          "alpha_iou": 1.0,
+          "exact_rgba_fraction": 0.9883,
+          "rgb_agreement_on_overlap": 0.9766
+        },
+        "target-pack": {
+          "width": 16,
+          "height": 32,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 256,
+          "alpha_iou": 1.0,
+          "exact_rgba_fraction": 0.9883,
+          "rgb_agreement_on_overlap": 0.9766
+        },
+        "phase-snap": {
+          "width": 16,
+          "height": 32,
+          "rgb": 8,
+          "alpha": [
+            0,
+            255
+          ],
+          "foreground": 256,
+          "alpha_iou": 1.0,
+          "exact_rgba_fraction": 0.9883,
+          "rgb_agreement_on_overlap": 0.9766
+        }
+      },
+      "detection": {
+        "step_x": 18.479166666666668,
+        "step_y": 18.479166666666668,
+        "cols": 48,
+        "rows": 96,
+        "phase_x": 0.0,
+        "phase_y": 0.0,
+        "consensus": "fast:ac+rl(S)"
+      },
+      "detect_seconds": 0.16
+    }
+  ],
+  "roundtrip_control_changed_pixels": 0
+}

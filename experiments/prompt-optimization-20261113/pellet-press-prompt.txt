@@ -1,0 +1,9 @@
+Create one new standalone pixel-art inventory machine for Probably Stolen: a compact mineral-powder pellet press, designed to read at 48 by 48 native pixels.
+
+The attached image is an enlarged original game sprite. Use it ONLY for pixel-art rendering, outline weight, muted material palette, shallow front-above viewpoint, and sparse detail density. Create a DIFFERENT silhouette and component arrangement; do not copy its furnace door or ventilation grille.
+
+Design: a small funnel at the upper left feeds a broad enclosed pressing chamber in the center. A short rectangular output tray sits below the chamber. One small control toggle is on the right side. These parts form one compact supported machine on a low base. Keep the input, working chamber and output visually distinct. Horizontal front edges, visible shallow top faces, narrow side faces.
+
+Use warm pale casing panels, blue-gray metal, purple-dark cavities and one restrained teal indicator, as in the reference. Keep housing planes broad and uninterrupted. Model the form with connected flat color clusters and a few selective edge highlights. Coherent square pixel scale, crisp stepped outlines, no smooth gradients, noise, microtexture or extra decorative bolts.
+
+Square canvas, complete object nearly filling it with narrow margins comparable to the reference. Solid bright green exterior and gaps. One machine only, no floor, shadow, text, grid or extra objects.

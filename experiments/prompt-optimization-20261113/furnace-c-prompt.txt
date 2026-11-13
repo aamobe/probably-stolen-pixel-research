@@ -1,0 +1,15 @@
+Redraw the object from the reference image as true pixel art with a strict pixel period.
+
+Subject: only the industrial furnace in the attached reference.
+
+Logical resolution: exactly 48×48 pixels. Every logical pixel is one exact square block filled uniformly with a single RGB color. Different blocks may use different colors. All blocks are the same size everywhere and sit on one lattice that starts at the top-left corner of the canvas: no half blocks, no smaller blocks for fine detail, no drifting, stretched or rotated grid. Do not add detail finer than one block.
+
+Keep the design of the reference: preserve the silhouette, proportions, pose, colors, major components, and their relative positions. Do not enlarge, move or restyle individual elements. Simplify details that cannot fit within the logical resolution into clear whole-pixel shapes instead of introducing smaller pixels. Render any tiny lettering or symbols as simple blocky marks one block wide; they do not need to be readable.
+
+Flat color fills only. No gradients, no dithering, no noise, no texture.
+
+Background: pure flat #00FF00 everywhere outside the object, including all internal gaps and spaces between separate parts. Every edge is a hard stair-step of whole blocks. No anti-aliasing, no semi-transparent pixels, no glow, no drop shadow, no halo, no white fringe.
+
+Match the viewing angle and orientation of the reference. Keep the complete object within the canvas. Use the specified native bounding box, anchor and margins: retain the reference framing, nearly full width and height with its narrow outer margin, centered on the 48×48 canvas. Do not shrink the object to impose a universal margin.
+
+One object only. No additional objects, scenery, captions, borders, or visible grid lines.

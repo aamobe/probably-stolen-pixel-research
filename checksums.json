@@ -1,0 +1,410 @@
+{
+  "date": "2026-11-13",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 34,
+      "sha256": "ccc223e3533c85ec84afceeef996374e222096f7f78fa44078054f37e8d4e815"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 104,
+      "sha256": "bce23a27ebc2785f2653c1d77ac841d1c3329cda9889ac2fcfa387772080c3c8"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 893,
+      "sha256": "29a76575fa8e43a0c2fd125c1c2f5ae2eb8d6ec832b8ce71ea30f70fe2ed9e67"
+    },
+    {
+      "path": "docs/PROMPT.md",
+      "bytes": 9536,
+      "sha256": "1c2255e2dc5529e8a97cbcb3edaeaebfa00845275a0d906f8fa26f883a637b89"
+    },
+    {
+      "path": "docs/REPRODUCE.md",
+      "bytes": 1305,
+      "sha256": "848fb5487a258c7a8b0a8b9c88bddcbc6fc26aee3165a22cad44b0d406327e9b"
+    },
+    {
+      "path": "docs/RESEARCH.md",
+      "bytes": 11181,
+      "sha256": "3e98bac25620261eb13b9836762a88eeb6e0ec83bba775e2b5e71ba547036d7f"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 1056,
+      "sha256": "6c033fd69607925565871372bf249d8a65738c9c7ffb1c46b2adf46b2120d25e"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/bottle-c-generated.png",
+      "bytes": 1161549,
+      "sha256": "5b0a126a91e575a0a6d9825944cdcf680934a7576f7dc0740e5fa172337a43a2"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/bottle-generated.png",
+      "bytes": 1165143,
+      "sha256": "311f7df30835c1709327eb884ec0930a82f938779749fe7f42481465a994523f"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/bottle-prompt.txt",
+      "bytes": 743,
+      "sha256": "8d08602ed4eeb062c66b74d53d56ffe56e0882a1cf6096f3d72003f668c9201f"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/experiment-upscaled.py",
+      "bytes": 4993,
+      "sha256": "97817632375623ffe43bca3c0e17a31a95bb74eb19ce96ddb16deca04d299eec"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/experiment.py",
+      "bytes": 5131,
+      "sha256": "ba4e4e4c9e5148f87877f62fac4b9a9fdfb7d84dbe674f77e1175eb134b3f162"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/furnace-c-generated.png",
+      "bytes": 1204836,
+      "sha256": "d229847bcc224737da094c1838416a27a5fa224e5f690b8b112467f18ac0e4bf"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/furnace-c-prompt.txt",
+      "bytes": 1791,
+      "sha256": "f7dad6b7a6be7dbe3ec934c7a586814158f23074b125828df4890b134b804999"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/manifest.json",
+      "bytes": 7395,
+      "sha256": "ded55fa2f8bc75e7ba90e5305ce4eaf7dd00551313f0cedfd96b9d1c17cb1a48"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/new-machine.py",
+      "bytes": 2478,
+      "sha256": "d6795eeb241a85ba8462a2ad28836bf1fa66852fa877071b8699fdb80af5e1eb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/pellet-press-generated.png",
+      "bytes": 1233674,
+      "sha256": "dca6fef2d3a07d30039a413ed47b3385dbae0525123cb417a7a460eba7e4de81"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/pellet-press-prompt.txt",
+      "bytes": 1432,
+      "sha256": "91e62783d7db5d21c3b5561dbf5b1864c7cac03c67fc247effa1f1657ab6992b"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/README.md",
+      "bytes": 196,
+      "sha256": "c02f883d7d4995a8d7d98955f267e89c48a78a7adb5bbcba0e3c9fc9ccc8dc74"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/register.py",
+      "bytes": 2969,
+      "sha256": "7c572141f18285022c762a2c1a2b515c987bf092cd5230e6821948908f5be6ff"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/bottle-auto-palette.png",
+      "bytes": 484,
+      "sha256": "8652237ee0bc15ede812d6caf989513899348b003c23ca4474c5f889c4c959cf"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/bottle-auto-raw.png",
+      "bytes": 2268,
+      "sha256": "abbc1b8f85705837c1dc04040aa11a8d81d556544816df8247eeaede68027cfd"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/bottle-nearest.png",
+      "bytes": 288,
+      "sha256": "026772ce437f47075b59760efaec36bfb0f9546f1d7addf58b42120accdca05f"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/bottle-phase-snap.png",
+      "bytes": 287,
+      "sha256": "8c524fcecbca692b062610209600c8a6ff27974098af0ff97a2507343bc9d9ee"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/bottle-registered.png",
+      "bytes": 282,
+      "sha256": "6d56fcd2f1e4f6937f65164f06d8ae734e3e4a0a3daa783504b15ccefb85ee0d"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/bottle-target-pack.png",
+      "bytes": 250,
+      "sha256": "09c3c4a9d444d7ca40f66a7684a5a17a108167b7e63e88fe368ce850cda25ffb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-a-auto-palette.png",
+      "bytes": 1749,
+      "sha256": "7225f2f58660dad9f46c0a3f0b0dba238b5465284a70d705bea7149472265ca9"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-a-auto-raw.png",
+      "bytes": 8650,
+      "sha256": "3cb552beebca53c93b119f539786aba5eb2fe3c36a390d7752089bc2f82b130a"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-a-nearest.png",
+      "bytes": 1025,
+      "sha256": "2e6ecb630f6f73d3adfee6852b7cf3e048d81f32ddb7db62e7ecb78cf7493d1b"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-a-phase-snap.png",
+      "bytes": 748,
+      "sha256": "c58354b008c0dec2d80e28d2ee66b79a8810e4a1ced856d2ba44d0101ff6bc6b"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-a-registered.png",
+      "bytes": 949,
+      "sha256": "60012f36266207b97df3574537654e310f1a9f611399667c1865d0d1880405e0"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-a-target-pack.png",
+      "bytes": 947,
+      "sha256": "7559ad233cfafb20b4cd1399ef1de601e81132f260dca2e9943a046b68aba1c4"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-b-auto-palette.png",
+      "bytes": 1514,
+      "sha256": "ec9f0a4b2a8ca8b15c8b6cb8f69abe2344387537e166311145f85aaa571f5afa"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-b-auto-raw.png",
+      "bytes": 6722,
+      "sha256": "a68e902cb2a408fda9a4c32fb762bfcff272ea11fc6477c121bf4c1ccf2e0967"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-b-nearest.png",
+      "bytes": 943,
+      "sha256": "096803792e6f1c3a883962c45522353088e6b3b0e4aa9748713b2df9fc822788"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-b-phase-snap.png",
+      "bytes": 763,
+      "sha256": "decd80018e74dcffb2d282f521f26c5479647f508a18e763c40169bb54225810"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-b-registered.png",
+      "bytes": 891,
+      "sha256": "678c253be66479e25cac98cfeeb07f6e37053e6a5ebb11536974b55f315a5bf3"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/furnace-b-target-pack.png",
+      "bytes": 858,
+      "sha256": "348ba2fe9c648aa705904f1de3cf967eb47d9a93bd28a1911c4158c65f7244e1"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/registration.json",
+      "bytes": 1273,
+      "sha256": "691b5950ff3f2bc6879dccaecbadd24a98d56a132fe72313244078757b4958a8"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results/report.json",
+      "bytes": 6687,
+      "sha256": "b01fc4761d3a79b859394e34b9a8ad032167b0cccc673981437a4e6b9e1b5602"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-new/pellet-press-native.png",
+      "bytes": 974,
+      "sha256": "e4c3433a91828fc7421a3be7f6dbb91f975f38ca2062dbdd8eb97587ad3e4a62"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-new/report.json",
+      "bytes": 591,
+      "sha256": "6d17f4f63277eacc93165b169bbaa175fd335041eeae578e1a7931f21ee90158"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-auto-palette.png",
+      "bytes": 570,
+      "sha256": "9d6a947553f7f1aaa7618112506ff86be6df718d2dec8b3ecbafbeb11a45a5ac"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-auto-raw.png",
+      "bytes": 2711,
+      "sha256": "70ef66dbbc670dc8b9a91a325f7c428004201cbd9db88b9ed72770f9475f1032"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-nearest.png",
+      "bytes": 392,
+      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-phase-snap.png",
+      "bytes": 392,
+      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-target-pack.png",
+      "bytes": 392,
+      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-auto-palette.png",
+      "bytes": 946,
+      "sha256": "2a02c2bb0c4bb5f7e83248076507a65b31deadb7e785abbe969a7f7850d185fb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-auto-raw.png",
+      "bytes": 8303,
+      "sha256": "6f5259433a25e204037986c8349ecd98dab92f5666ae492d6d624638b0edec36"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-nearest.png",
+      "bytes": 757,
+      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-phase-snap.png",
+      "bytes": 757,
+      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-target-pack.png",
+      "bytes": 757,
+      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/report.json",
+      "bytes": 4517,
+      "sha256": "99e5bbaf1d19aaef1cf86d753451a194b484db219135f8c9cbfa3f478a56748e"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/LICENSE",
+      "bytes": 1073,
+      "sha256": "ac5a1087450218352dc0ccfd251dc7cd0594278597b7ae957ec0416d64a97f07"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/__init__.py",
+      "bytes": 960,
+      "sha256": "27617b5b1a9843ef3d645481fc8d561406d9e10cb9faca6772b9d235186c8a09"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/api.py",
+      "bytes": 3914,
+      "sha256": "47c8393944165f84066ec7b497bd0c9544d4e358694346eb9639639fda46f35c"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/autocorr.py",
+      "bytes": 17967,
+      "sha256": "e335065b92b0a140ef18718b3ec032a6682317deb852d6b10228bc4f72366677"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/channels.py",
+      "bytes": 65125,
+      "sha256": "92dcd7e9776ec82fc85973938ac80ba19976fd7d6ba26fd23ff8d8bdd6a97930"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/cli.py",
+      "bytes": 3990,
+      "sha256": "7558999bf435cab6f9cd9aa14279fb2705c118a9cd72ea147426e10db8a9f807"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/colorspace.py",
+      "bytes": 1556,
+      "sha256": "bc7d27f57e83af93ba63d181cffea82b1b3ef2c97be399b4d6b31ca17d1fbc7d"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/core.py",
+      "bytes": 13343,
+      "sha256": "f71eb3b175cfc36cd5af75e4335c5ad7bd44e3b6948fb4c4717d1afd4a5ef531"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/fusion.py",
+      "bytes": 23446,
+      "sha256": "ac40ce8d88093cac98e084a2584a43447fcb04ec41298457dd7e41fbb1b53b97"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/quantize.py",
+      "bytes": 2624,
+      "sha256": "0847f5f3d38b62d90a644bdcc47d436afd8a88165836ff0551722da2c4e2e34e"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/reconsearch.py",
+      "bytes": 17713,
+      "sha256": "813b7843ab742eb7502699b482dba0f3cb9d414ab9738c55bc8bdc93ca5b53ec"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/reconstruct.py",
+      "bytes": 23690,
+      "sha256": "bf1b33f4e23ae59a5246fc384db5183d1dd71b53e90f38b12e1985d7c1a46887"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/runlengths.py",
+      "bytes": 11393,
+      "sha256": "5e579aba05c9c2c264655c9e5abd49a884dfc901f12e77ab4ce10795e77fedbc"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/selfsim.py",
+      "bytes": 15136,
+      "sha256": "0cca760a5f60f4d240767f86c6f2af5031dfb395b760f2032aa633b755fd0e1f"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pixelfixer/varcontrast.py",
+      "bytes": 19010,
+      "sha256": "491ef4b1e3c9246a7c190d9b45af4e9470fee9e8bd906e4ad8b9e8b8bde3ce2c"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/pyproject.toml",
+      "bytes": 776,
+      "sha256": "dda9c4388fb929a3b00bed4e13acde5b060aca05d2d8dcf502abc958ff25188e"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/README.md",
+      "bytes": 2849,
+      "sha256": "a56f47d987077137293d4687deccf4afa3a4ee977845b36aec9067d38de435dc"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/python/requirements.txt",
+      "bytes": 55,
+      "sha256": "f6a950103680b8445ca95e92c5119001f504c0ae12af9c62e2e24660f5b439e0"
+    },
+    {
+      "path": "experiments/prompt-validation-20261113/furnace-a-original-template.png",
+      "bytes": 1203098,
+      "sha256": "1b197ed18b3f256d51636a0a5ae21602d0b32e92c01c50c960424654b4e64904"
+    },
+    {
+      "path": "experiments/prompt-validation-20261113/furnace-b-github-template.png",
+      "bytes": 1213664,
+      "sha256": "18229bf3b7ee6a04f1c30c68a60805c8a0692644b4ce1a5661fabac4199a5565"
+    },
+    {
+      "path": "experiments/prompt-validation-20261113/Measure.ps1",
+      "bytes": 1245,
+      "sha256": "91323c5301b45fe1d5774f558ca893dc10d5a791bb9be9d11443e0daa141439c"
+    },
+    {
+      "path": "experiments/prompt-validation-20261113/metrics.json",
+      "bytes": 1138,
+      "sha256": "645ee0a6e9e717c0555d4480af7f85b259d55a9f4e2ad1782eb08bf663d2eb9a"
+    },
+    {
+      "path": "experiments/prompt-validation-20261113/prompts.json",
+      "bytes": 3598,
+      "sha256": "6be4c8456b686affb33f62594aebc107ea2da162adb523fe01ed312e5020bce4"
+    },
+    {
+      "path": "experiments/prompt-validation-20261113/README.md",
+      "bytes": 196,
+      "sha256": "c02f883d7d4995a8d7d98955f267e89c48a78a7adb5bbcba0e3c9fc9ccc8dc74"
+    },
+    {
+      "path": "figures/pellet-press-8x.png",
+      "bytes": 2756,
+      "sha256": "1020137d8475c662666b18d4fc736e1590f587bdfddc91864c84e2191cf282b8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2296,
+      "sha256": "d6f229d61e006e5eb8e90cd68166ee8fe298da3e0836773e7ea32d8e414fbe84"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 70,
+      "sha256": "d709c16b2ce231cecd5d6a8e05970a35aff7ffd45400c505ecfa9e6c31c8cace"
+    },
+    {
+      "path": "总方案.md",
+      "bytes": 1516,
+      "sha256": "8d4a2dedab5cbea77a38c987b62f46f70f33d960aa781ad26f88e07c80cf5af7"
+    }
+  ]
+}

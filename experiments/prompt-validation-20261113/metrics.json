@@ -1,0 +1,41 @@
+[
+  {
+    "file": "../../inputs/private/furnace.png",
+    "width": 48,
+    "height": 48,
+    "foregroundRgb": 9,
+    "alphaValueCount": 2,
+    "foregroundPixels": 2024,
+    "exactGreenPixels": 0,
+    "sha256": "6BC3B29AA491DBDDF760324BD2FB828868B7C92D07D8087F8D9F611E6120055B",
+    "targetWidth": 48,
+    "targetHeight": 48,
+    "nativeSizeMatches": true
+  },
+  {
+    "file": "furnace-a-original-template.png",
+    "width": 1254,
+    "height": 1254,
+    "foregroundRgb": 23633,
+    "alphaValueCount": 1,
+    "foregroundPixels": 1432770,
+    "exactGreenPixels": 0,
+    "sha256": "1B197ED18B3F256D51636A0A5AE21602D0B32E92C01C50C960424654B4E64904",
+    "targetWidth": 48,
+    "targetHeight": 48,
+    "nativeSizeMatches": false
+  },
+  {
+    "file": "furnace-b-github-template.png",
+    "width": 1254,
+    "height": 1254,
+    "foregroundRgb": 22691,
+    "alphaValueCount": 1,
+    "foregroundPixels": 1193283,
+    "exactGreenPixels": 0,
+    "sha256": "18229BF3B7EE6A04F1C30C68A60805C8A0692644B4CE1A5661FABAC4199A5565",
+    "targetWidth": 48,
+    "targetHeight": 48,
+    "nativeSizeMatches": false
+  }
+]

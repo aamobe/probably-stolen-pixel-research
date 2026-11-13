@@ -1,0 +1,32 @@
+{
+  "target": [
+    48,
+    48
+  ],
+  "paletteSource": [
+    "furnace",
+    "furnace_on"
+  ],
+  "rgb": 10,
+  "alpha": [
+    0,
+    255
+  ],
+  "rawSHA256": "dca6fef2d3a07d30039a413ed47b3385dbae0525123cb417a7a460eba7e4de81",
+  "outputSHA256": "e4c3433a91828fc7421a3be7f6dbb91f975f38ca2062dbdd8eb97587ad3e4a62",
+  "offsetSensitivity": [
+    {
+      "sourceOffsetXY": -1,
+      "changedPixels": 46
+    },
+    {
+      "sourceOffsetXY": 0,
+      "changedPixels": 0
+    },
+    {
+      "sourceOffsetXY": 1,
+      "changedPixels": 46
+    }
+  ],
+  "manualEdits": false
+}
