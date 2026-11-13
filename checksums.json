@@ -3,38 +3,38 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 34,
-      "sha256": "ccc223e3533c85ec84afceeef996374e222096f7f78fa44078054f37e8d4e815"
+      "bytes": 32,
+      "sha256": "23302dd90b8bb74b44d365fafef8df20f809b61cb347023951ecf60a88a29651"
     },
     {
       "path": ".gitignore",
-      "bytes": 104,
-      "sha256": "bce23a27ebc2785f2653c1d77ac841d1c3329cda9889ac2fcfa387772080c3c8"
+      "bytes": 96,
+      "sha256": "5db537c6410d65f08ead1adcae74cbd19d22b15ac6b7f332e1b3a04d2b219488"
     },
     {
       "path": "AGENTS.md",
-      "bytes": 893,
-      "sha256": "29a76575fa8e43a0c2fd125c1c2f5ae2eb8d6ec832b8ce71ea30f70fe2ed9e67"
+      "bytes": 885,
+      "sha256": "97d6f48ddfedcd16b2769f7b16c41e2d9152258b599d7013502bd354dc4a63a6"
     },
     {
       "path": "docs/PROMPT.md",
-      "bytes": 9536,
-      "sha256": "1c2255e2dc5529e8a97cbcb3edaeaebfa00845275a0d906f8fa26f883a637b89"
+      "bytes": 9438,
+      "sha256": "31cfe6dbb20ec5b9d76c14283922d5ddd6c3af97841ce4cf1f32add142be29f3"
     },
     {
       "path": "docs/REPRODUCE.md",
-      "bytes": 1305,
-      "sha256": "848fb5487a258c7a8b0a8b9c88bddcbc6fc26aee3165a22cad44b0d406327e9b"
+      "bytes": 1289,
+      "sha256": "7b1562688ab2167c6d93e77552d84226b3d36c63aadda0f082a6cb2cce25ea57"
     },
     {
       "path": "docs/RESEARCH.md",
-      "bytes": 11181,
-      "sha256": "3e98bac25620261eb13b9836762a88eeb6e0ec83bba775e2b5e71ba547036d7f"
+      "bytes": 11085,
+      "sha256": "af514fe0cadbe6188b0b131828db63c92305eefc1999aceaefdeb353fdff8aeb"
     },
     {
       "path": "docs/VALIDATION.md",
-      "bytes": 1056,
-      "sha256": "6c033fd69607925565871372bf249d8a65738c9c7ffb1c46b2adf46b2120d25e"
+      "bytes": 1047,
+      "sha256": "a30c50a506e9464e3bd18540a7e1e633195a6586a0012a47e91f9c097b394cd2"
     },
     {
       "path": "experiments/prompt-optimization-20261113/bottle-c-generated.png",
@@ -48,18 +48,18 @@
     },
     {
       "path": "experiments/prompt-optimization-20261113/bottle-prompt.txt",
-      "bytes": 743,
-      "sha256": "8d08602ed4eeb062c66b74d53d56ffe56e0882a1cf6096f3d72003f668c9201f"
+      "bytes": 742,
+      "sha256": "f757984fe3b3d619883b5fdf98250d221724d8e5dc76d98bc359024388fae543"
     },
     {
       "path": "experiments/prompt-optimization-20261113/experiment-upscaled.py",
-      "bytes": 4993,
-      "sha256": "97817632375623ffe43bca3c0e17a31a95bb74eb19ce96ddb16deca04d299eec"
+      "bytes": 4900,
+      "sha256": "44165b938090e3a4eaab1f5f19c193c27044f467c55ede3342680b4753291a68"
     },
     {
       "path": "experiments/prompt-optimization-20261113/experiment.py",
-      "bytes": 5131,
-      "sha256": "ba4e4e4c9e5148f87877f62fac4b9a9fdfb7d84dbe674f77e1175eb134b3f162"
+      "bytes": 5035,
+      "sha256": "e6cd7171177e9b9e9431d0c1f04c2d058263a2de800a0efa29d327776a45c224"
     },
     {
       "path": "experiments/prompt-optimization-20261113/furnace-c-generated.png",
@@ -68,18 +68,18 @@
     },
     {
       "path": "experiments/prompt-optimization-20261113/furnace-c-prompt.txt",
-      "bytes": 1791,
-      "sha256": "f7dad6b7a6be7dbe3ec934c7a586814158f23074b125828df4890b134b804999"
+      "bytes": 1776,
+      "sha256": "68bb15fca5f0b9b41b8e1f7b0d2ae0705c702e5f62e61292acb7215e8818abd9"
     },
     {
       "path": "experiments/prompt-optimization-20261113/manifest.json",
-      "bytes": 7395,
-      "sha256": "ded55fa2f8bc75e7ba90e5305ce4eaf7dd00551313f0cedfd96b9d1c17cb1a48"
+      "bytes": 7290,
+      "sha256": "9135571c10db4a8429f3124338e7e69155372524e2e17055116573f2ca10efd8"
     },
     {
       "path": "experiments/prompt-optimization-20261113/new-machine.py",
-      "bytes": 2478,
-      "sha256": "d6795eeb241a85ba8462a2ad28836bf1fa66852fa877071b8699fdb80af5e1eb"
+      "bytes": 2441,
+      "sha256": "fbb59fe9f796a4da4cadcfbc8a8a0e15bced40835548e4893dd001567e9b109a"
     },
     {
       "path": "experiments/prompt-optimization-20261113/pellet-press-generated.png",
@@ -93,13 +93,13 @@
     },
     {
       "path": "experiments/prompt-optimization-20261113/README.md",
-      "bytes": 196,
-      "sha256": "c02f883d7d4995a8d7d98955f267e89c48a78a7adb5bbcba0e3c9fc9ccc8dc74"
+      "bytes": 195,
+      "sha256": "0c21e303eb522e0d32ddb5e98df7b70c8059c41df296a7956a2b417ff904f5b9"
     },
     {
       "path": "experiments/prompt-optimization-20261113/register.py",
-      "bytes": 2969,
-      "sha256": "7c572141f18285022c762a2c1a2b515c987bf092cd5230e6821948908f5be6ff"
+      "bytes": 2913,
+      "sha256": "0563d64d1e3ba61e02b83b2a97f76982f724090257b437cc07fee0aa8952616e"
     },
     {
       "path": "experiments/prompt-optimization-20261113/results/bottle-auto-palette.png",
@@ -193,13 +193,13 @@
     },
     {
       "path": "experiments/prompt-optimization-20261113/results/registration.json",
-      "bytes": 1273,
-      "sha256": "691b5950ff3f2bc6879dccaecbadd24a98d56a132fe72313244078757b4958a8"
+      "bytes": 1185,
+      "sha256": "4883b1c7422525d1135ab0d352f183c8f75f62c30710c7c5d9e05c4beb4a58a5"
     },
     {
       "path": "experiments/prompt-optimization-20261113/results/report.json",
-      "bytes": 6687,
-      "sha256": "b01fc4761d3a79b859394e34b9a8ad032167b0cccc673981437a4e6b9e1b5602"
+      "bytes": 6411,
+      "sha256": "6be605cdbc4112a210d96041addc545f611fb3e67aa93407bddd4b8f5a8456c0"
     },
     {
       "path": "experiments/prompt-optimization-20261113/results-new/pellet-press-native.png",
@@ -208,8 +208,8 @@
     },
     {
       "path": "experiments/prompt-optimization-20261113/results-new/report.json",
-      "bytes": 591,
-      "sha256": "6d17f4f63277eacc93165b169bbaa175fd335041eeae578e1a7931f21ee90158"
+      "bytes": 560,
+      "sha256": "9f6a3c874cbe96cdd2fac10ab84f88a86a1637da4c03c3ccce33c86be31f5105"
     },
     {
       "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-auto-palette.png",
@@ -263,8 +263,8 @@
     },
     {
       "path": "experiments/prompt-optimization-20261113/results-upscaled/report.json",
-      "bytes": 4517,
-      "sha256": "99e5bbaf1d19aaef1cf86d753451a194b484db219135f8c9cbfa3f478a56748e"
+      "bytes": 4331,
+      "sha256": "461157b08f6de579d9d39bddfe5ef43ffde531d8dcf77a995511196e3eb9acd7"
     },
     {
       "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/LICENSE",
@@ -368,23 +368,23 @@
     },
     {
       "path": "experiments/prompt-validation-20261113/Measure.ps1",
-      "bytes": 1245,
-      "sha256": "91323c5301b45fe1d5774f558ca893dc10d5a791bb9be9d11443e0daa141439c"
+      "bytes": 1225,
+      "sha256": "200d9e878298c2ee895f4549b19149b03fd40d248d1f7dc2578f734393942873"
     },
     {
       "path": "experiments/prompt-validation-20261113/metrics.json",
-      "bytes": 1138,
-      "sha256": "645ee0a6e9e717c0555d4480af7f85b259d55a9f4e2ad1782eb08bf663d2eb9a"
+      "bytes": 1097,
+      "sha256": "2a08b0a30ad6218868327333e8b81d55acfe3ab008990093967d1d9bfa29786b"
     },
     {
       "path": "experiments/prompt-validation-20261113/prompts.json",
-      "bytes": 3598,
-      "sha256": "6be4c8456b686affb33f62594aebc107ea2da162adb523fe01ed312e5020bce4"
+      "bytes": 3582,
+      "sha256": "b5d63e5c863fb0a042042b69595f317b8b1a154e307aa9821a1bf5d1f69eddb1"
     },
     {
       "path": "experiments/prompt-validation-20261113/README.md",
-      "bytes": 196,
-      "sha256": "c02f883d7d4995a8d7d98955f267e89c48a78a7adb5bbcba0e3c9fc9ccc8dc74"
+      "bytes": 195,
+      "sha256": "0c21e303eb522e0d32ddb5e98df7b70c8059c41df296a7956a2b417ff904f5b9"
     },
     {
       "path": "figures/pellet-press-8x.png",
@@ -393,18 +393,19 @@
     },
     {
       "path": "README.md",
-      "bytes": 2296,
-      "sha256": "d6f229d61e006e5eb8e90cd68166ee8fe298da3e0836773e7ea32d8e414fbe84"
+      "bytes": 2263,
+      "sha256": "dcd8bcbe3c51defee01e131dbfb55275a5baa7f77c2506ffe770112681d77c9e"
     },
     {
       "path": "requirements.txt",
-      "bytes": 70,
-      "sha256": "d709c16b2ce231cecd5d6a8e05970a35aff7ffd45400c505ecfa9e6c31c8cace"
+      "bytes": 66,
+      "sha256": "fb540d1d3a8264a093ea9b6cc427fd578c6f5c02294e46c8e3f9d865306a83a1"
     },
     {
       "path": "总方案.md",
-      "bytes": 1516,
-      "sha256": "8d4a2dedab5cbea77a38c987b62f46f70f33d960aa781ad26f88e07c80cf5af7"
+      "bytes": 1493,
+      "sha256": "c69e0ef1d558964a338d03320c15787804854f17ba7af4d25e89d95674fc38f8"
     }
-  ]
+  ],
+  "hash_scope": "Git committed file bytes; text normalized to LF by .gitattributes; excludes checksums.json itself"
 }
