@@ -1,0 +1,20 @@
+[
+  {
+    "Path": "furnace.png",
+    "Width": 48,
+    "Height": 48,
+    "Alpha0": 0,
+    "Alpha255": 2024,
+    "PartialAlpha": 280,
+    "MainRGB": 9
+  },
+  {
+    "Path": "A-furnace-transparent.png",
+    "Width": 1254,
+    "Height": 1254,
+    "Alpha0": 362247,
+    "Alpha255": 2861,
+    "PartialAlpha": 1207408,
+    "MainRGB": 15761
+  }
+]

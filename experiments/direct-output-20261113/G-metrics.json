@@ -1,0 +1,42 @@
+[
+  {
+    "Source": "G-furnace-logical-geometry.png",
+    "Width": 1254,
+    "Height": 1254,
+    "MainPixels": 1260968,
+    "Transparent": 302327,
+    "Opaque": 2291,
+    "PartialAlpha": 1267898,
+    "MainRgb": 20297,
+    "ExactPaletteFraction": 0.0010380913710736513,
+    "MeanPaletteDistance": 10.666096859879968,
+    "LogicalWidth": 48,
+    "LogicalHeight": 48,
+    "MeanCellDominance": 0.8288667798624476,
+    "MixedCellFraction": 0.5559895833333334,
+    "XBoundaryScore": 0.28569683644802735,
+    "YBoundaryScore": 0.30919370845989597,
+    "XPhaseFraction": 0.265625,
+    "YPhaseFraction": 0.125
+  },
+  {
+    "Source": "recovery/G-majority-48.png",
+    "Width": 48,
+    "Height": 48,
+    "MainPixels": 1847,
+    "Transparent": 457,
+    "Opaque": 1847,
+    "PartialAlpha": 0,
+    "MainRgb": 8,
+    "ExactPaletteFraction": 1,
+    "MeanPaletteDistance": 0,
+    "LogicalWidth": 48,
+    "LogicalHeight": 48,
+    "MeanCellDominance": 1,
+    "MixedCellFraction": 0,
+    "XBoundaryScore": 1,
+    "YBoundaryScore": 1,
+    "XPhaseFraction": 0,
+    "YPhaseFraction": 0
+  }
+]

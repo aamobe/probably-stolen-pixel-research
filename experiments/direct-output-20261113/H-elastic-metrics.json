@@ -1,0 +1,42 @@
+[
+  {
+    "Source": "recovery/B-elastic-48.png",
+    "Width": 48,
+    "Height": 48,
+    "MainPixels": 1924,
+    "Transparent": 380,
+    "Opaque": 1924,
+    "PartialAlpha": 0,
+    "MainRgb": 9,
+    "ExactPaletteFraction": 1,
+    "MeanPaletteDistance": 0,
+    "LogicalWidth": 48,
+    "LogicalHeight": 48,
+    "MeanCellDominance": 1,
+    "MixedCellFraction": 0,
+    "XBoundaryScore": 1,
+    "YBoundaryScore": 1,
+    "XPhaseFraction": 0,
+    "YPhaseFraction": 0
+  },
+  {
+    "Source": "recovery/G-elastic-48.png",
+    "Width": 48,
+    "Height": 48,
+    "MainPixels": 1846,
+    "Transparent": 458,
+    "Opaque": 1846,
+    "PartialAlpha": 0,
+    "MainRgb": 8,
+    "ExactPaletteFraction": 1,
+    "MeanPaletteDistance": 0,
+    "LogicalWidth": 48,
+    "LogicalHeight": 48,
+    "MeanCellDominance": 1,
+    "MixedCellFraction": 0,
+    "XBoundaryScore": 1,
+    "YBoundaryScore": 1,
+    "XPhaseFraction": 0,
+    "YPhaseFraction": 0
+  }
+]

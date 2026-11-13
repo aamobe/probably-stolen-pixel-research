@@ -31,3 +31,9 @@ Probably Stolen机器与物品的通用提示词、GitHub建议及可复查实�
 - [Pixel Art Fixer](https://github.com/Retro-Diffusion/pixel-art-fixer/tree/ef376e57e1c272633ca2dbf5f29ec3fcf6596465)：实际运行的Python处理；MIT许可证随源码保存。
 
 本研究与游戏官方无关联。自编资料未另行授予开源许可，第三方源码按附带许可证使用。独立于公司MOD发布流程。
+
+## 此前工作合并
+
+[机械研究、直出实验和矿化机完整索引](docs/PRIOR-WORK.md)。通用提示词已合入完整制作任务流程，默认透明；模型原稿、自动转换与原生编辑分开记录。
+
+![矿化机原生整理样例](art/examples/mineral-native/mineral.png)

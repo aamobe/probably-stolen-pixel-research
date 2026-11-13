@@ -1,0 +1,20 @@
+{
+  "Source": "B-furnace-palette-flat.png",
+  "Width": 1254,
+  "Height": 1254,
+  "MainPixels": 1308354,
+  "Transparent": 254010,
+  "Opaque": 3718,
+  "PartialAlpha": 1314788,
+  "MainRgb": 15904,
+  "ExactPaletteFraction": 0.0010417669835533808,
+  "MeanPaletteDistance": 7.800097797072441,
+  "LogicalWidth": 48,
+  "LogicalHeight": 48,
+  "MeanCellDominance": 0.8565089479595918,
+  "MixedCellFraction": 0.4639756944444444,
+  "XBoundaryScore": 0.36439938957924567,
+  "YBoundaryScore": 0.33299438525133734,
+  "XPhaseFraction": 0.015625,
+  "YPhaseFraction": 0.84375
+}

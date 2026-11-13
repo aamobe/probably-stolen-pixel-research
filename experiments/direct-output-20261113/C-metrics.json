@@ -1,0 +1,27 @@
+{
+  "Width": 1254,
+  "Height": 1254,
+  "Alpha0": 0,
+  "Alpha255": 1572516,
+  "PartialAlpha": 0,
+  "ForegroundMask": "exclude R>180 B>180 G<100 (approximate magenta background)",
+  "ForegroundPixels": 1291524,
+  "ForegroundRGB": 20176,
+  "ExactPalettePixels": 5298,
+  "ExactPalettePercent": 0.41,
+  "BackgroundPixels": 280992,
+  "BackgroundRGB": 1389,
+  "ExactMagentaPixels": 1,
+  "PanelROI": "x=440..620,y=270..290",
+  "PanelRGB": 24,
+  "PanelMinRGB": [
+    190,
+    190,
+    168
+  ],
+  "PanelMaxRGB": [
+    193,
+    192,
+    170
+  ]
+}

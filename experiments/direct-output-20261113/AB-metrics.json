@@ -1,0 +1,50 @@
+[
+  {
+    "File": "A-furnace-transparent.png",
+    "Width": 1254,
+    "Height": 1254,
+    "Alpha0": 362247,
+    "Alpha255": 2861,
+    "PartialAlpha": 1207408,
+    "MainPixels": 1201214,
+    "MainRGB": 15761,
+    "ExactPalettePixels": 38,
+    "ExactPalettePercent": 0.003,
+    "PanelROI": "x=440..620,y=270..290",
+    "PanelRGB": 32,
+    "PanelMinRGB": [
+      203,
+      201,
+      179
+    ],
+    "PanelMaxRGB": [
+      206,
+      204,
+      182
+    ]
+  },
+  {
+    "File": "B-furnace-palette-flat.png",
+    "Width": 1254,
+    "Height": 1254,
+    "Alpha0": 254010,
+    "Alpha255": 3718,
+    "PartialAlpha": 1314788,
+    "MainPixels": 1308354,
+    "MainRGB": 15904,
+    "ExactPalettePixels": 1363,
+    "ExactPalettePercent": 0.104,
+    "PanelROI": "x=440..620,y=270..290",
+    "PanelRGB": 34,
+    "PanelMinRGB": [
+      189,
+      188,
+      169
+    ],
+    "PanelMaxRGB": [
+      192,
+      191,
+      173
+    ]
+  }
+]

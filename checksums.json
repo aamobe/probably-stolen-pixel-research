@@ -12,14 +12,144 @@
       "sha256": "5db537c6410d65f08ead1adcae74cbd19d22b15ac6b7f332e1b3a04d2b219488"
     },
     {
+      "path": "总方案.md",
+      "bytes": 1695,
+      "sha256": "b5f7e29e810df1e2b1e1cad3559d18c42c9df084cc562859ae2080c692720a50"
+    },
+    {
       "path": "AGENTS.md",
       "bytes": 885,
       "sha256": "97d6f48ddfedcd16b2769f7b16c41e2d9152258b599d7013502bd354dc4a63a6"
     },
     {
+      "path": "art/examples/mineral-native/automatic.png",
+      "bytes": 1134,
+      "sha256": "b7e570b9439341a1bb1b545d196ce4e5bb64fe458507d456d887eb98a814c3fe"
+    },
+    {
+      "path": "art/examples/mineral-native/generated.png",
+      "bytes": 763522,
+      "sha256": "959c5569ab8a93a475145d8bcfbac497857eca05e13ab5eec854a6e1020b9220"
+    },
+    {
+      "path": "art/examples/mineral-native/manifest.json",
+      "bytes": 2365,
+      "sha256": "c66201b7e6675fb004fe285b8bd380c08828c0196f6f08246d62cf2d8ee85c2b"
+    },
+    {
+      "path": "art/examples/mineral-native/material-edits.json",
+      "bytes": 14445,
+      "sha256": "38008fb4ae21080c6637be37d7260d0615a6fa7ed80f00f02b1b1723de078e4d"
+    },
+    {
+      "path": "art/examples/mineral-native/mineral.aseprite",
+      "bytes": 2100,
+      "sha256": "85b3f198b57bec8ba35a511d54e20bf3e3b9eb05eeb23631185409a9ac693684"
+    },
+    {
+      "path": "art/examples/mineral-native/mineral.png",
+      "bytes": 2215,
+      "sha256": "baf4551e7ad487787a267274697710e36fbe0f65311e8b667780d4e62f8aa196"
+    },
+    {
+      "path": "art/examples/mineral-native/palette.json",
+      "bytes": 339,
+      "sha256": "4c8447c18e05236a3bf69058ec04aabc512b4ddc452ed3bbbae274650ee24841"
+    },
+    {
+      "path": "art/examples/mineral-native/README.md",
+      "bytes": 3779,
+      "sha256": "ff2e1f15d77fc4ef38a190c2bd3b2f247ba914484033e0c11e7ff794e78aa771"
+    },
+    {
+      "path": "art/examples/mineral-native/refined.png",
+      "bytes": 2181,
+      "sha256": "40c7c3bd3bfe9f18f6f87ca00484b171b11b5e3592437d187fdf8c5173acf6ac"
+    },
+    {
+      "path": "art/examples/mineral-native/refinement-edits.json",
+      "bytes": 46268,
+      "sha256": "6dd3cde423c60eed18f9393b88331065ef73e6339564bb617719216c592d8d0b"
+    },
+    {
+      "path": "art/NATIVE-WORKFLOW.md",
+      "bytes": 5829,
+      "sha256": "637291f18e4347930fda7165fb0412427a95379aa25554b41952dcd58fa611fc"
+    },
+    {
+      "path": "art/tools/native/Convert-Sprite.ps1",
+      "bytes": 1679,
+      "sha256": "38b78218797226892b3b359717390efe9168576af1a33ba05501a0d546c432bf"
+    },
+    {
+      "path": "art/tools/native/Initialize-SpriteTools.ps1",
+      "bytes": 664,
+      "sha256": "ff55af06002ecb96de7a949a1d595915d1c40978f2a92f22d8fb76123ed1e122"
+    },
+    {
+      "path": "art/tools/native/Measure-Sprites.ps1",
+      "bytes": 1103,
+      "sha256": "94bd1c254e9bc417266bea43da484b9ee9ded96b913c974d48b2965d0f258de8"
+    },
+    {
+      "path": "art/tools/native/README.md",
+      "bytes": 3351,
+      "sha256": "6abf273dad7ff5ae02f264a247d5cae1063afeaf49e20c70d366fb0f385e90d6"
+    },
+    {
+      "path": "art/tools/native/Replay-PixelEdits.ps1",
+      "bytes": 1620,
+      "sha256": "fabc48a6afcb94afd918603026a2f31f65a7a83422f0928626d71997db978b08"
+    },
+    {
+      "path": "art/tools/native/SpriteProbe.cs",
+      "bytes": 6224,
+      "sha256": "86bffc282a799384f92ecf834996f08bef69de6261a6eb87acd62296a3a95ca1"
+    },
+    {
+      "path": "art/tools/native/SpriteRecover.cs",
+      "bytes": 8003,
+      "sha256": "425b53b56a479045390f376de67f627b70fa77d550069a3570b9e492433dfba4"
+    },
+    {
+      "path": "art/tools/native/Test-NativeWorkflow.ps1",
+      "bytes": 4670,
+      "sha256": "62ed952871a5be5d4aa367b973c5873891f82af3cf36a03eab0453a06c6b2715"
+    },
+    {
+      "path": "docs/PRIOR-WORK.md",
+      "bytes": 1564,
+      "sha256": "b39c7cb480976429584c222e4eb62750a8468e1acdb5659c14c2d425debf1c80"
+    },
+    {
+      "path": "docs/prior/净水器机械结构与金属高光-2026-11-13.md",
+      "bytes": 6967,
+      "sha256": "ac0c6ab4a9f379e27492c63d9448b92b4660fe2f906e533a3537115ae7d7acb3"
+    },
+    {
+      "path": "docs/prior/卷烟机与净水器-机械结构比较-2026-11-13.md",
+      "bytes": 8951,
+      "sha256": "f388b307e7650e984380e940a2293aaa2b195c8c1d52cf10e1f918ec0441e87a"
+    },
+    {
+      "path": "docs/prior/生成原尺寸机械精灵-研究结论与流程.md",
+      "bytes": 5284,
+      "sha256": "faa9dac127fb8fba86052eea1135ccd5e16ce1242f3f222c9ebc595041b83ae6"
+    },
+    {
+      "path": "docs/prior/直出精灵能力边界-20261113.md",
+      "bytes": 3651,
+      "sha256": "6ad27cb720731feb4150743e9a3feb086fbdd5dec0862b4bb90ddccf98070820"
+    },
+    {
+      "path": "docs/prior/GitHub像素恢复方法-20261113.md",
+      "bytes": 7754,
+      "sha256": "533acfa7fa3e2c2ff01abd80fece6606c8e09949be96ef31490930d7106de8b6"
+    },
+    {
       "path": "docs/PROMPT.md",
-      "bytes": 9438,
-      "sha256": "31cfe6dbb20ec5b9d76c14283922d5ddd6c3af97841ce4cf1f32add142be29f3"
+      "bytes": 16705,
+      "sha256": "57321a7aa2ad020ba184733e5eae1e24b5244d3ee23289941a0ee7d25e2e7e49"
     },
     {
       "path": "docs/REPRODUCE.md",
@@ -28,13 +158,283 @@
     },
     {
       "path": "docs/RESEARCH.md",
-      "bytes": 11085,
-      "sha256": "af514fe0cadbe6188b0b131828db63c92305eefc1999aceaefdeb353fdff8aeb"
+      "bytes": 11425,
+      "sha256": "f713ef6395780330a6a8281ace200a523de9014aa588710b94f9c29c6411e36f"
     },
     {
       "path": "docs/VALIDATION.md",
       "bytes": 1047,
       "sha256": "a30c50a506e9464e3bd18540a7e1e633195a6586a0012a47e91f9c097b394cd2"
+    },
+    {
+      "path": "experiments/direct-output-20261113/研究记录.md",
+      "bytes": 4221,
+      "sha256": "7a8f829af23f2cdc62ca1ca5f328c207f419b572fb79e28aabd7e583a94afb72"
+    },
+    {
+      "path": "experiments/direct-output-20261113/A-furnace-transparent.png",
+      "bytes": 1151735,
+      "sha256": "a4e8fa5ec70b1a571ee3903e04e01deb036a5c88870e72ab53cbde3cb7b0a0f4"
+    },
+    {
+      "path": "experiments/direct-output-20261113/AB-metrics.json",
+      "bytes": 916,
+      "sha256": "079af683d79142ac930c41c77df9a59c69cb3880e1b31d80f6b7be396b6c1e1f"
+    },
+    {
+      "path": "experiments/direct-output-20261113/B-调色板与平涂结果.md",
+      "bytes": 2279,
+      "sha256": "2fdf46b48d5a65b745ba153fb652ecf45ce250b1e4cc8f10ec89c6ba638cf891"
+    },
+    {
+      "path": "experiments/direct-output-20261113/B-furnace-palette-flat.png",
+      "bytes": 1250472,
+      "sha256": "458995b1c57243afd9fe2e0ed66d815e2eb0ef64d52d3058e9ae6331a92ed444"
+    },
+    {
+      "path": "experiments/direct-output-20261113/B-grid-probe.json",
+      "bytes": 560,
+      "sha256": "8633b3cc3933b4104cc9fa6c5501cd3fe6ed9d837613ba91fb839230dc85befc"
+    },
+    {
+      "path": "experiments/direct-output-20261113/B-grid-scan.json",
+      "bytes": 4762,
+      "sha256": "ce9963dc2075330574e7df5eab9eb50bf6ab31acd69f0896208e2a53976ec81f"
+    },
+    {
+      "path": "experiments/direct-output-20261113/B-prompt.txt",
+      "bytes": 1689,
+      "sha256": "f6789382bec19e21a0ef12aeccf57f46d5d1b694f344dd9924b31cc365360b4a"
+    },
+    {
+      "path": "experiments/direct-output-20261113/C-不透明背景结果.md",
+      "bytes": 2422,
+      "sha256": "10e03a002bb6eb6d38b25b80cf99e7950acba1ee7e21e04237cc5f47b41acec0"
+    },
+    {
+      "path": "experiments/direct-output-20261113/C-furnace-opaque-magenta.png",
+      "bytes": 1200149,
+      "sha256": "3759df35745c2ec9f34fb5ac0d0b74819e7ea162262cf707647a92d9502f99a5"
+    },
+    {
+      "path": "experiments/direct-output-20261113/C-metrics.json",
+      "bytes": 536,
+      "sha256": "13f96892d2658283c075db3b9e0a41e4e355569b2bf6a93f62f2b36384e30981"
+    },
+    {
+      "path": "experiments/direct-output-20261113/C-prompt.txt",
+      "bytes": 1887,
+      "sha256": "4c9e4b4a33f12833569cabb64f2ae0fbb4fe692d836fca81d21625e60366725e"
+    },
+    {
+      "path": "experiments/direct-output-20261113/D-三块纯色结果.md",
+      "bytes": 2670,
+      "sha256": "a525633784a8c74643e68ffc8e174672350af2463c557f55331904f32d0806b7"
+    },
+    {
+      "path": "experiments/direct-output-20261113/D-metrics.json",
+      "bytes": 1944,
+      "sha256": "ed0a12ef0d00577fa838427119999da54e15a15425c0ad537c797da4ba4ac9f4"
+    },
+    {
+      "path": "experiments/direct-output-20261113/D-prompt.txt",
+      "bytes": 850,
+      "sha256": "3bc92d7c123db7a5e34659d65fa742b7efa952de78ccb470b20c8a4327dbaa4a"
+    },
+    {
+      "path": "experiments/direct-output-20261113/D-three-flat-colors.png",
+      "bytes": 1106345,
+      "sha256": "eb1071041a34ffb2e36250989f76d28dd129fd31abfb2b5a7b312e4975bcfe2f"
+    },
+    {
+      "path": "experiments/direct-output-20261113/E-网格诊断.md",
+      "bytes": 2257,
+      "sha256": "8731f0f7eeafe9127edef2116f322f5f96194a425853d23e50ea059761c1ca34"
+    },
+    {
+      "path": "experiments/direct-output-20261113/F-原尺寸恢复对照.md",
+      "bytes": 3181,
+      "sha256": "f62551583bb588c27fb05b383b2166674c7bf33854a0ed3a2c0976d6aa4be297"
+    },
+    {
+      "path": "experiments/direct-output-20261113/G-明确逻辑像素结构结果.md",
+      "bytes": 2543,
+      "sha256": "47f44dbc635a3c5ba491d2f9e6af6e595fc2250c15359952339ef4967cb3fe48"
+    },
+    {
+      "path": "experiments/direct-output-20261113/G-furnace-logical-geometry.png",
+      "bytes": 1226510,
+      "sha256": "12ed38f5d8532018a48051944a1f541ed604bbddf1e7e32977402e78e63585a7"
+    },
+    {
+      "path": "experiments/direct-output-20261113/G-grille-runs.json",
+      "bytes": 34932,
+      "sha256": "0147fce78ed4fe47b548110f8d5f10877358503b76c00d00f2f9a239b56fda84"
+    },
+    {
+      "path": "experiments/direct-output-20261113/G-metrics.json",
+      "bytes": 1069,
+      "sha256": "648ad67621d23cc5e684103d65b1396ecdfe6a2e580420446235ac86980bdefc"
+    },
+    {
+      "path": "experiments/direct-output-20261113/G-prompt.txt",
+      "bytes": 2984,
+      "sha256": "daf9ccc5e031094fb242a903795f72166f4277e5d3f3e2b2a4e6b3a8c979bd5e"
+    },
+    {
+      "path": "experiments/direct-output-20261113/grid-probe.json",
+      "bytes": 1652,
+      "sha256": "28d37a28c77221fa0dedff93124a1e472bf2c84b3fcd9c41b1fa46dfa8024a3a"
+    },
+    {
+      "path": "experiments/direct-output-20261113/H-有界弹性切格结果.md",
+      "bytes": 1795,
+      "sha256": "58c0ba8db99219ae3bd3e17c2fa83ab5d2a0b10d09afb2aa5c9ce58db9575753"
+    },
+    {
+      "path": "experiments/direct-output-20261113/H-elastic-metrics.json",
+      "bytes": 925,
+      "sha256": "8396ec7a5b403cf1cccf7708860465b85c03505d61838a747546cbebdb2925bb"
+    },
+    {
+      "path": "experiments/direct-output-20261113/H-elastic-results.json",
+      "bytes": 5642,
+      "sha256": "88fdf28751ebca929d716a254569865787b671f94523853ead3289a6dac1c048"
+    },
+    {
+      "path": "experiments/direct-output-20261113/metrics.json",
+      "bytes": 338,
+      "sha256": "16c4d231f9bca73636171b67e9f8a4c280e0dad94c3f5e4e1965f08322a161a2"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/B-center-48.png",
+      "bytes": 590,
+      "sha256": "5e6fddda0db45299f767edbe4837456f67f44a0d804937dfac70471a411ee641"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/B-center-preview-8x.png",
+      "bytes": 12451,
+      "sha256": "0fff4ce182d8ca009c879808a6a94d5a37cc7910329659273dcbbd4344fc9b82"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/B-elastic-48.png",
+      "bytes": 582,
+      "sha256": "d5b372262736f19ab7d91c07bb8a086e01f53ee397fd02bbf6918047fd03c583"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/B-elastic-preview-8x.png",
+      "bytes": 12158,
+      "sha256": "4478f7c6993d77f9776955cf33dca3db150440f433137f0fe2d71e04c9ed1ef1"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/B-majority-48.png",
+      "bytes": 580,
+      "sha256": "f592d4369fba6e2162a68ca2267be5eb4aaa62a3e202b32f749e04b2a55ba326"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/B-majority-preview-8x.png",
+      "bytes": 12171,
+      "sha256": "b262609455dab6c2fcbaafa060e0de36061a024e7684ae630318a5d63e25b535"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/G-center-48.png",
+      "bytes": 639,
+      "sha256": "e61d4c159e86a56d3b78ed8bcb1a61849ad5cbd392a19bcc9364a896913119bd"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/G-center-preview-8x.png",
+      "bytes": 12242,
+      "sha256": "0917ab16ae9a5afd5473bbc55a56c968257592859f085d57bcc504dcc17389f0"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/G-elastic-48.png",
+      "bytes": 589,
+      "sha256": "65b905f4f8ef91c2c3a8866bb591cb6adfe1d8186a680695e76b61377be164dd"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/G-elastic-preview-8x.png",
+      "bytes": 12478,
+      "sha256": "51f4fd02c9a87b09a46cdb31304060fab57e0f2cffbcd4f6bdbcf7bb130bc8c5"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/G-majority-48.png",
+      "bytes": 617,
+      "sha256": "621425945d321361ee42cc8bdf506818d3079184bfffb1044a8304aa821b008a"
+    },
+    {
+      "path": "experiments/direct-output-20261113/recovery/G-majority-preview-8x.png",
+      "bytes": 12189,
+      "sha256": "5755471849664e7edc5ca63cc65848c2d4b162d6375046f3708096c6870c022f"
+    },
+    {
+      "path": "experiments/mineral-pod-wip/center.png",
+      "bytes": 926,
+      "sha256": "5ff9f34f5afad5ccf886af568b4e86b229711ef4e07f7a4fc123b3e714b8374c"
+    },
+    {
+      "path": "experiments/mineral-pod-wip/conversion-metrics.json",
+      "bytes": 1894,
+      "sha256": "8ebc2304624d9a5868152c62b72cae63b9fd0ed6908f9644d6b0547d88da62ad"
+    },
+    {
+      "path": "experiments/mineral-pod-wip/generated.png",
+      "bytes": 1057213,
+      "sha256": "4e389074224be6d72dfb96d33f7445fc129359dd115e089bf5371cf64d60e4f5"
+    },
+    {
+      "path": "experiments/mineral-pod-wip/majority.png",
+      "bytes": 896,
+      "sha256": "6e61e5f9fa13f644a67801e7df99e7971cbf9a24da90699593b3a69bfb59ce50"
+    },
+    {
+      "path": "experiments/mineral-pod-wip/palette.json",
+      "bytes": 183,
+      "sha256": "5e76a05488320505a67a7003b3259ab528633938bf9839852c0cc8b77ec8b84f"
+    },
+    {
+      "path": "experiments/mineral-pod-wip/prompt.txt",
+      "bytes": 3243,
+      "sha256": "b735f5520d1ad20fae6dbba0c232ca6517a48b4b38a73b76f5e1d734190ea957"
+    },
+    {
+      "path": "experiments/mineral-pod-wip/README.md",
+      "bytes": 339,
+      "sha256": "4abbf1d9b6c509baa360f0d79e5deee150404342e8ed8b9a3b2bb82e676b30ec"
+    },
+    {
+      "path": "experiments/mineral-upright-rejected/center.png",
+      "bytes": 1119,
+      "sha256": "fcbc81bc054443a64ff6df4954ac63c8b75d3ea583eb11366bf0cde760a16870"
+    },
+    {
+      "path": "experiments/mineral-upright-rejected/conversion-metrics.json",
+      "bytes": 1892,
+      "sha256": "f66eddf2a8ef667b39912e8f04ba8b0040c80c356c2b7abeb8531583c5a09e1d"
+    },
+    {
+      "path": "experiments/mineral-upright-rejected/generated.png",
+      "bytes": 1009004,
+      "sha256": "ecda29b3f9e4a0724952f1a7269d8a184d1834687a0df8c1ac432bd00cd53703"
+    },
+    {
+      "path": "experiments/mineral-upright-rejected/majority.png",
+      "bytes": 1086,
+      "sha256": "310b97c393c0066001780badfb9fff9d202fa753c454d4cdf9e07f179c3d1eca"
+    },
+    {
+      "path": "experiments/mineral-upright-rejected/palette.json",
+      "bytes": 219,
+      "sha256": "c94d873d80aeebacd711f33ecc25f7203fb44cd014525b5c28a283b18e3ac678"
+    },
+    {
+      "path": "experiments/mineral-upright-rejected/prompt.txt",
+      "bytes": 3229,
+      "sha256": "7bc766d08a8e42f459529a5c25cf7c743fbd56ad8de7d7c61f3f92522396e0d2"
+    },
+    {
+      "path": "experiments/mineral-upright-rejected/README.md",
+      "bytes": 312,
+      "sha256": "7032ca01e3901cea17458b30a765039ee255400a946e28c243a42496ac1723bd"
     },
     {
       "path": "experiments/prompt-optimization-20261113/bottle-c-generated.png",
@@ -100,6 +500,71 @@
       "path": "experiments/prompt-optimization-20261113/register.py",
       "bytes": 2913,
       "sha256": "0563d64d1e3ba61e02b83b2a97f76982f724090257b437cc07fee0aa8952616e"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-new/pellet-press-native.png",
+      "bytes": 974,
+      "sha256": "e4c3433a91828fc7421a3be7f6dbb91f975f38ca2062dbdd8eb97587ad3e4a62"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-new/report.json",
+      "bytes": 560,
+      "sha256": "9f6a3c874cbe96cdd2fac10ab84f88a86a1637da4c03c3ccce33c86be31f5105"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-auto-palette.png",
+      "bytes": 570,
+      "sha256": "9d6a947553f7f1aaa7618112506ff86be6df718d2dec8b3ecbafbeb11a45a5ac"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-auto-raw.png",
+      "bytes": 2711,
+      "sha256": "70ef66dbbc670dc8b9a91a325f7c428004201cbd9db88b9ed72770f9475f1032"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-nearest.png",
+      "bytes": 392,
+      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-phase-snap.png",
+      "bytes": 392,
+      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-target-pack.png",
+      "bytes": 392,
+      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-auto-palette.png",
+      "bytes": 946,
+      "sha256": "2a02c2bb0c4bb5f7e83248076507a65b31deadb7e785abbe969a7f7850d185fb"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-auto-raw.png",
+      "bytes": 8303,
+      "sha256": "6f5259433a25e204037986c8349ecd98dab92f5666ae492d6d624638b0edec36"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-nearest.png",
+      "bytes": 757,
+      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-phase-snap.png",
+      "bytes": 757,
+      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-target-pack.png",
+      "bytes": 757,
+      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
+    },
+    {
+      "path": "experiments/prompt-optimization-20261113/results-upscaled/report.json",
+      "bytes": 4331,
+      "sha256": "461157b08f6de579d9d39bddfe5ef43ffde531d8dcf77a995511196e3eb9acd7"
     },
     {
       "path": "experiments/prompt-optimization-20261113/results/bottle-auto-palette.png",
@@ -200,71 +665,6 @@
       "path": "experiments/prompt-optimization-20261113/results/report.json",
       "bytes": 6411,
       "sha256": "6be605cdbc4112a210d96041addc545f611fb3e67aa93407bddd4b8f5a8456c0"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-new/pellet-press-native.png",
-      "bytes": 974,
-      "sha256": "e4c3433a91828fc7421a3be7f6dbb91f975f38ca2062dbdd8eb97587ad3e4a62"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-new/report.json",
-      "bytes": 560,
-      "sha256": "9f6a3c874cbe96cdd2fac10ab84f88a86a1637da4c03c3ccce33c86be31f5105"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-auto-palette.png",
-      "bytes": 570,
-      "sha256": "9d6a947553f7f1aaa7618112506ff86be6df718d2dec8b3ecbafbeb11a45a5ac"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-auto-raw.png",
-      "bytes": 2711,
-      "sha256": "70ef66dbbc670dc8b9a91a325f7c428004201cbd9db88b9ed72770f9475f1032"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-nearest.png",
-      "bytes": 392,
-      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-phase-snap.png",
-      "bytes": 392,
-      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/bottle-c-target-pack.png",
-      "bytes": 392,
-      "sha256": "c799c7e0fa0b7c87e229509b8bd7b2f5c0a61a6fa3c51f11165cf44aac1e06bb"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-auto-palette.png",
-      "bytes": 946,
-      "sha256": "2a02c2bb0c4bb5f7e83248076507a65b31deadb7e785abbe969a7f7850d185fb"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-auto-raw.png",
-      "bytes": 8303,
-      "sha256": "6f5259433a25e204037986c8349ecd98dab92f5666ae492d6d624638b0edec36"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-nearest.png",
-      "bytes": 757,
-      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-phase-snap.png",
-      "bytes": 757,
-      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/furnace-c-target-pack.png",
-      "bytes": 757,
-      "sha256": "43391d2e0cbd115783a03103f23832fda1b4456db471d9a5a0632f0f7a72fc81"
-    },
-    {
-      "path": "experiments/prompt-optimization-20261113/results-upscaled/report.json",
-      "bytes": 4331,
-      "sha256": "461157b08f6de579d9d39bddfe5ef43ffde531d8dcf77a995511196e3eb9acd7"
     },
     {
       "path": "experiments/prompt-optimization-20261113/vendor/pixel-art-fixer/LICENSE",
@@ -393,19 +793,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 2263,
-      "sha256": "dcd8bcbe3c51defee01e131dbfb55275a5baa7f77c2506ffe770112681d77c9e"
+      "bytes": 2560,
+      "sha256": "71ea58624269414345349becb507dd83dfb892b8e4f9060c8318eacd9130c81c"
     },
     {
       "path": "requirements.txt",
       "bytes": 66,
       "sha256": "fb540d1d3a8264a093ea9b6cc427fd578c6f5c02294e46c8e3f9d865306a83a1"
-    },
-    {
-      "path": "总方案.md",
-      "bytes": 1493,
-      "sha256": "c69e0ef1d558964a338d03320c15787804854f17ba7af4d25e89d95674fc38f8"
     }
-  ],
-  "hash_scope": "Git committed file bytes; text normalized to LF by .gitattributes; excludes checksums.json itself"
+  ]
 }
