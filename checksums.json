@@ -13,13 +13,13 @@
     },
     {
       "path": "总方案.md",
-      "bytes": 1695,
-      "sha256": "b5f7e29e810df1e2b1e1cad3559d18c42c9df084cc562859ae2080c692720a50"
+      "bytes": 607,
+      "sha256": "18a4f6d9a002ff50076ac4898a5bb55c8196dc271ad37caa64d0351fdd7ebd1d"
     },
     {
       "path": "AGENTS.md",
-      "bytes": 885,
-      "sha256": "97d6f48ddfedcd16b2769f7b16c41e2d9152258b599d7013502bd354dc4a63a6"
+      "bytes": 850,
+      "sha256": "75496759cbd557601e39f4aac7a0fa522a676214cf6135941121268a8eacc9ed"
     },
     {
       "path": "art/examples/mineral-native/automatic.png",
@@ -72,9 +72,44 @@
       "sha256": "6dd3cde423c60eed18f9393b88331065ef73e6339564bb617719216c592d8d0b"
     },
     {
+      "path": "art/examples/mineral-regional/mineral-native-48x64.png",
+      "bytes": 1598,
+      "sha256": "b404fe7289a79247a22df29961742c5a90ac2e01f242bdd19f0db83d4b705f40"
+    },
+    {
+      "path": "art/examples/mineral-regional/mineral-native.aseprite",
+      "bytes": 2271,
+      "sha256": "76176812e3c621e563dde689ac6a73756e409e57a10047cc9f021f2113a77d00"
+    },
+    {
+      "path": "art/examples/mineral-regional/native-drawing.json",
+      "bytes": 357693,
+      "sha256": "16bb0a211741fbd53a924ec1b6dc1ff6304dde64382ceb916526f9806ded6153"
+    },
+    {
+      "path": "art/examples/mineral-regional/palette.json",
+      "bytes": 267,
+      "sha256": "cdf7a9779b9b44da8a97554da5cd2dcbfd4753fd1cf1a070caf9603eba20d203"
+    },
+    {
+      "path": "art/examples/mineral-regional/preview-8x.png",
+      "bytes": 19406,
+      "sha256": "f27c698262b667527ca05f8141a9fe2f1f57ebbcc611bf5e648fd8b727a3af08"
+    },
+    {
+      "path": "art/examples/mineral-regional/README.md",
+      "bytes": 1450,
+      "sha256": "85c9159b9a1db40118dcbda06f3b3dffccd2117fc9092e69ad7314ad8198d1f1"
+    },
+    {
+      "path": "art/examples/mineral-regional/validation.json",
+      "bytes": 336,
+      "sha256": "73662adbbe799f6ebb15b9b0adaa2637bd592ce379d952f5c1f0af57eb769cb3"
+    },
+    {
       "path": "art/NATIVE-WORKFLOW.md",
-      "bytes": 5829,
-      "sha256": "637291f18e4347930fda7165fb0412427a95379aa25554b41952dcd58fa611fc"
+      "bytes": 336,
+      "sha256": "5dac19d532b9d3dd55df886121c2002f8228e424287376d9446b0e0f50edf40d"
     },
     {
       "path": "art/tools/native/Convert-Sprite.ps1",
@@ -117,6 +152,11 @@
       "sha256": "62ed952871a5be5d4aa367b973c5873891f82af3cf36a03eab0453a06c6b2715"
     },
     {
+      "path": "docs/ART-STANDARD.md",
+      "bytes": 4093,
+      "sha256": "de688049b4eec9f7f82ff8b880e4df029aae4b1d4d2126fa6ac579fbf310e6a6"
+    },
+    {
       "path": "docs/PRIOR-WORK.md",
       "bytes": 1564,
       "sha256": "b39c7cb480976429584c222e4eb62750a8468e1acdb5659c14c2d425debf1c80"
@@ -148,23 +188,23 @@
     },
     {
       "path": "docs/PROMPT.md",
-      "bytes": 16705,
-      "sha256": "57321a7aa2ad020ba184733e5eae1e24b5244d3ee23289941a0ee7d25e2e7e49"
+      "bytes": 1602,
+      "sha256": "b687c809d0bffbd38861a363c4e24326cc1800529b79695064f3623c224f7be9"
     },
     {
       "path": "docs/REPRODUCE.md",
-      "bytes": 1289,
-      "sha256": "7b1562688ab2167c6d93e77552d84226b3d36c63aadda0f082a6cb2cce25ea57"
+      "bytes": 1437,
+      "sha256": "32ff533493b76c936f8bbfa5f4f6b37a4d9c49c7564b42850782b42bb176b036"
     },
     {
       "path": "docs/RESEARCH.md",
-      "bytes": 11425,
-      "sha256": "f713ef6395780330a6a8281ace200a523de9014aa588710b94f9c29c6411e36f"
+      "bytes": 11573,
+      "sha256": "98637f56653e44b1b466384c0e5dbbdaef32d9dcc23516a8e57159475f59e742"
     },
     {
       "path": "docs/VALIDATION.md",
-      "bytes": 1047,
-      "sha256": "a30c50a506e9464e3bd18540a7e1e633195a6586a0012a47e91f9c097b394cd2"
+      "bytes": 801,
+      "sha256": "e5dbf0d27563c08a5eb88a83376ba741250aedce98482c2b1f096a18ae9de0b1"
     },
     {
       "path": "experiments/direct-output-20261113/研究记录.md",
@@ -793,8 +833,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2560,
-      "sha256": "71ea58624269414345349becb507dd83dfb892b8e4f9060c8318eacd9130c81c"
+      "bytes": 1007,
+      "sha256": "ca393abdd8acddd58de354902135ef192d7496063ac8ce15a9f89ea006a8a99d"
     },
     {
       "path": "requirements.txt",
